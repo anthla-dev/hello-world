@@ -1,3 +1,3 @@
-# hello-world
+# About me
 This repository is for practicing the GitHub Flow.
-a bit about myself
+My name is Anthony La
